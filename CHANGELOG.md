@@ -5,6 +5,12 @@ section is what `release.ps1` puts into the GitHub release and onto
 [wallnode.cc/app](https://wallnode.cc/app). Written as things a person noticed,
 not as commits.
 
+## 1.0.2 (2026-08-24)
+
+- The installer wears the WALLNODE mark instead of Inno Setup's stock cardboard
+  box and CD, on the same near-black the app uses. Drawn from the same geometry
+  as the startup card, at three sizes so it stays sharp on a scaled display.
+
 ## 1.0.1 (2026-08-23)
 
 - History tiles find their cached thumbnail again. They were looked up under the
