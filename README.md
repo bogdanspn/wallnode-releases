@@ -1,4 +1,4 @@
-<p align="left"><img src="icon.png" width="128" alt="WALLNODE"></p>
+<p align="center"><img src="icon.png" width="64" alt="WALLNODE"></p>
 
 # WALLNODE desktop releases
 
