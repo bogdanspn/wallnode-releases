@@ -20,6 +20,17 @@ schedule from any series, category, artist, your likes or a search.
 Windows 10 1809 or later, 64-bit. It installs for your account only, so there is
 no administrator prompt, and it does not start with Windows unless you ask it to.
 
+## Screenshots
+
+![A wallpaper open in the app, with Send to desktop offering the desktop, the login screen, or either of two screens](screenshots/wallpaper.webp)
+
+![The home screen in the light theme: the wallpaper on the desktop now, the one coming next, and the newest additions to the archive](screenshots/home.webp)
+
+<p>
+  <img src="screenshots/rotation.webp" width="49%" alt="Rotation settings: change the wallpaper on its own, from your likes, in random order, every day">
+  <img src="screenshots/displays.webp" width="49%" alt="Display settings: two 3840x2160 screens, with one image across both or a different image on each">
+</p>
+
 ## Not signed
 
 The installer has no code-signing certificate, so Windows shows
