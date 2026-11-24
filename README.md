@@ -1,3 +1,5 @@
+<p align="center"><img src="icon.png" width="128" alt="WALLNODE"></p>
+
 # WALLNODE desktop releases
 
 Published builds of the WALLNODE desktop app for Windows. This repository holds
